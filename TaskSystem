@@ -1,6 +1,0 @@
-digraph G {
-	T1 [label=T1]
-	T2 [label=T2]
-	somme [label=somme]
-	T2 -> T1
-}
