@@ -1,7 +1,6 @@
 digraph G {
-	A [label=A]
-	B [label=B]
-	C [label=C]
-	A -> B
-	A -> C
+	T1 [label=T1]
+	T2 [label=T2]
+	somme [label=somme]
+	T2 -> T1
 }
